@@ -1,0 +1,9 @@
+¿Qué es un Sistema de Diseño?
+
+Los sistemas de diseño están en todas partes, su función tiene que ver con la planeación y la construcción de productos (no necesariamente digitales).
+
+Hace muchos años, un hombre llamado Malcom McLean transportaba mercancías en sus barcos, pero la descarga de todos estos objetos era muy compleja, todo tenía tamaños y pesos distintos. Para resolver este problema, McLean trabajo con un grupo de ingenieros y crearon los containers o contenedores, cajas de metal que agilizan este proceso gracias la estandarización de todos los sistemas y medios de transporte de estos contenedores.
+
+Esto mismo sucede cuando trabajamos con software, buscamos una manera de agilizar nuestros desarrollo estandarizando todos estos procesos. Los sistemas de diseño son conjuntos de reglas para un producto que se modifica dependiendo de las necesidades del mismo, son una decisión de negocio. Cualquier persona del equipo de producto debe estar involucrada en este proyecto y poder consultar toda esta documentación.
+
+Para crear un sistema de diseño podemos usar diferentes herramientas como Bear, Notion o Evernote, lo importante es que podamos escribir y organizar estos sistemas.
