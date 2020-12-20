@@ -1,12 +1,16 @@
 Principios:
+si no tenemos principios solidos todos los caminos son correctos
 
-Accesibilidad
+nosotros debemos 
+
+
+Accesibilidad, que puedan acceder
   - Perceptible, que pueda percibirla.
   - Operable, la gente tiene que poder utilizarla.
   - Entendible, por ejemplo el idioma sea chino pero es una pagina web de peru
   - Robusto, capacidades para que pueda verlo toda persona. Por ejemplo considerar a las personas daltonicas.
   - Consistente, que siempre le hablen de la misma manera al cliente, tratar que todo sea de la misma manera, y al usuario no le cueste usar la plataforma. 
-  - Reusable, que cada boton que haga lo haga una vez y que varios trabajen en lo mismo.
+  - Reusable, que cada boton que haga lo haga una vez y que  nadie más  invierta su tiempo en hacer un boton.
   - Shareable, ahora utilizamos cosas que son compartibles, como notion.
   Notita importante. los principios son como monedas. 
   y la plataforma es un tanto restrictiva donde yo induciré al usuario. 
