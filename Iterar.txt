@@ -1,0 +1,49 @@
+Iteremos
+
+El proceso de creación de software no es tan definitivo como la creación de otros tipos de producto, son productos vivos que siguen mutando y desarrollándose en el tiempo. Los sistemas de diseño también pueden prever la forma de iterar, es decir, mejorar todos los días las construcciones y la forma de construir del equipo, lo más importante es que entre todos nos pongamos de acuerdo de manera fácil, rápida y efectiva.
+
+Para organizar el proceso de iteraciones debemos documentar todos los cambios y problemas que nos encontramos para que todo el equipo este actualizado y logremos entender el trabajo de la misma forma. Vamos a seguir los siguientes pasos:
+
+    Darle un nombre a la iteración
+    Describir por qué estamos iterando, ¿qué problema vamos a resolver?
+    ¿Qué solución encontramos a estos problemas?
+    Cambios de estimación de conflictos, la duración y la dificultad estimada para trabajar esta iteración
+
+
+
+Notas.
+
+Todo lo que diseñamos se tiene que convertir en software y no podemos estimar hasta que produce el error, así redefinimos, el color, imagen, etc.
+Por eso la iteración es importante. 
+¿Tenemos que iterar o no tenemos que iterar?
+
+Por ejemplo, es un pago de suscripciones, y esta fallanado es necesario iterar.
+
+Iterar ayuda a evolucionar y a mejorar la web. 
+Iterar es una de las partes fundamentales.
+
+Que elemento necesitamos para iterar
+1. ponerle un nombre
+2. definior por que estámos iterando
+3. dar solución al problema, tener claro escrito el conflicto.
+4. Definir los tiempos de hacer cambios para solucionar el conflucto. 
+
+Ideal tener documentadas todas las iteraciones del producto. 
+
+https://www.notion.so/Template-b7631aaf3c9648dd92d860acbd707255
+
+
+Cuando quieres hacer las soluciones rápida, genera una deuda con el sistema. 
+
+Si se cambió y no se documentó se llama una deuda. 
+
+Escribir puntualmente. y es super importante. 
+
+El objetivo de iterar es que todos estemos de acuerdo de una manera rápida y efectiva. 
+
+siguinete clase recomendada, sistema de diseño para desarrolladores
+
+https://platzi.com/cursos/diseno-desarrolladores/
+
+recomendacion de sistemas de diseño 
+https://medium.com/@nathanacurtis
