@@ -1,0 +1,49 @@
+Las reglas espaciado es algo que no muchos anticipan. 
+
+Cuando haces un sistema de diseño tienes elementos que tienen un espacio entre ellos. 
+
+Al variar los dispositivos y los tamaños suele haber problemas de estandarización.
+
+Al faltar la regla de espaciado los programadores lo designa. 
+
+lo ideal es generar un ritmo de la aplicación, mientras más espácio más ritmo tiene
+pero como cuando es muy repetitivo pierde el rito. 
+
+al definir el espaciado nos da un ritmo visual. 
+
+Hay 3 cosas que intervienen cuando diseñamos
+- Margin
+- Padding
+- Borden
+
+  Padding; espaciado hacia adentro. logras hacer focus a la informaci´n
+
+  margen: espaciado hacia afuera 
+  Border; es el borde.
+
+  En su totalidad 
+
+  queremos 50 px 
+  si le añadimos border 1px y margin 2px 
+  ---> entonces en total tenemos 53 px x 53px
+
+Otra cosa importante para el espaciado en su sist. de espaciado ayuda  definir es el LAYPOUT
+Un layout, es el orden donde sabemos donde van las cosas.
+
+Es importante por que el layout se divide en columas.
+el layout hace más chico el espacio de contenido. este nos ayuda a tener los diferentes de la pantalla.
+
+una unidad es 1px
+
+Descripción
+
+Reglas de espaciado
+
+Las reglas de espaciado son muy útiles cuando trabajamos nuestros sistemas de diseño para anticipar la visualización de nuestras interfaces en diferentes dispositivos.
+
+    Ritmo: Qué tan seguido aparecen elementos arriba o debajo de otros.
+    Padding: Es el espacio dentro de nuestros elementos, nos ayuda a enfocar y transmitir los estilos de nuestra marca.
+    Margin: Es el espacio entre elementos pero hacia afuera, nos permite generar ritmo visual o para separar elementos de secciones diferentes.
+    Border: Trabajamos con el borde de los elementos, recuerda que las dimensiones o medidas de nuestros objetos se verán afectadas al aplicar o no aplicar estos bordes.
+    Layout: Vamos a definir la forma general en que combinamos las columnas, headers y barras de navegación de nuestras plataformas, gracias a estas reglas podemos garantizar que nos adaptamos a todos los tamaños y dispositivos.
+
