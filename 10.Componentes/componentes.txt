@@ -1,0 +1,12 @@
+¿Qué es un componente?
+
+Los componentes forman parte de un todo, así como las velas de un pastel, el piso de los edificios o las partes de un motor cada una con su funcionalidad. Lo mismo pasa con las interfaces, vamos a construir diferentes elementos y herramientas para que los usuarios logren cumplir sus objetivos.
+
+Todos los componentes tienen una entrada y una salida, el usuario realiza una acción y los elementos deben responder de alguna forma (feedback), esta es la forma de comunicamos con los usuarios, trabajamos haciendo conversaciones para informar que todo esta funcionando correctamente y qué pasos deben seguir a continuación. Este proceso de comunicación lo conocemos como interacción.
+
+Partes de un componente:
+
+    Nombre (así evitamos diferentes definiciones y establecemos los objetivos y funciones de nuestros componentes)
+    Descripción y solución (en qué problema estamos trabajando y cómo deberíamos implementar estas soluciones)
+    Behavior (el comportamiento de nuestros componentes dentro del sistema)
+    States (las variaciones y distintos comportamientos que pueden tener nuestros componentes dependiendo de su contexto)
