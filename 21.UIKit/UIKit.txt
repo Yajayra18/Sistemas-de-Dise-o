@@ -1,0 +1,21 @@
+Es una librería completa para diseñadores.
+
+y nos ayuda a diseñar.
+
+Evita el trabajo de diseñar una y otra vez de elemntos nuevos. 
+
+UI Elements, son muchso atomos. 
+
+tanto el UI Kit tiene que estár personalizado a su producto. 
+La idea no es arrastrar todo. 
+
+los UI Kit son interactivos, y tienen muchos cambios. 
+
+
+Los poderes de UI Kit
+se puede ir versioanndo  guardando v.1 v.2 v.3
+
+Es importante tener documentado  las versiones y los cambios. 
+
+
+El UI Kit nos ayudará a tener un sistema de diseño. 
