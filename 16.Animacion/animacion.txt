@@ -1,0 +1,48 @@
+Animación
+
+Caundo diseñas una plataforma, llega a haber arbitrieridades si pasa el trabajo de equipo en equipo, 
+
+
+12 principos de animación de disney, aunque no están escritos para la animación de interfaces y elimentos. 
+
+los 12 principios de disney tienen bien definido que trata de comunicar cada tipo de  animación, se recomienda hacer lo mismo dentro del desarrollo
+
+conclusiones.
+
+Principios que aplican a interfaces o plataformas.
+
+- Estirar y encoger; crea el drama suficiente sobre un elemento, por ejemplo  cuando un boton tiene un error.
+- Anticipación; manda a la vista al usuario hacia un lugar donde no pasa nada pero va a pasar. ejem. animaciones de modo avion donde el avión se va (anticipación de desconexión)
+- Entradas lentas y salidas lentas; ayuda a introducir elementos nuevos y a sacar elementos.
+- Acciones secundarias; ayuda a dar información a l usuario de lo que está pasando.
+- Timing; que el cliente sienta que se está procensando algo, para lograr la sensación.
+- Exageración, elemento que exagera su accion para trasmitir que es sumamente importante.
+- 
+
+Referencia de animaciones: [https://daneden.github.io/animate.css/](https://daneden.github.io/animate.css/)
+
+## Fade In
+
+Cuando un elemento independiente de la pantalla tiene la necesidad de entrar o aparecer 
+
+## Fade Out
+
+Cuando un elemento tienen la necesidad de salir de la vision del usuario. 
+
+Configuraciones de estas animaciones son : left, right, up, down.
+
+
+Descripción
+
+Animación
+
+Los 12 principios de la animación son un conjunto de reglas creadas por Disney para la animación de personajes, pero muchos de estos principios son muy útiles para ciertos aspectos de la animación de elementos de nuestras interfaces:
+
+    Anticipación: Vamos a a preparar a los usuarios para la acción que viene a continuación, por ejemplo, antes de desconectar la señal de un teléfono podemos animar el icono del avión y transmitir que no señal durante algún tiempo.
+    Estirar y encoger: Nos ayuda a generar drama sobre algún elemento, por ejemplo, para dramatizar la animación de un botón cuando el usuario ha cometido un error o alguna acción incorrecta.
+    Entradas y salidas lentas: Nos permite introducir o remover elementos de la plataforma, tal vez conozcas estas animaciones como Fade In y Fade Out.
+    Acciones secundarias: Todas las microinteracciones trabajan con este principio, estas animaciones nos ayudan a transmitir o dar información adicional como respuesta a alguna acción de los usuarios.
+    Timing: Mientras más detalles añadimos a las animaciones, más rápidas o lentas se pueden percibir. Podemos utilizar estos efectos visuales para transmitir apuro o tranquilidad mientras la plataforma esta cargando.
+    Exageración: Así como las acciones secundarias, podemos exagerar los movimientos de nuestros elementos para transmitir alguna sensación, por ejemplo, cuando el usuario quiere eliminar su cuenta.
+
+También vamos a utilizar Animate.css, una librería para trabajar con todo tipo de animaciones sin mucho trabajo, también nos facilita el proceso de documentación de las reglas de animación de nuestro sistema.
