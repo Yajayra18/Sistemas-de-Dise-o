@@ -1,0 +1,28 @@
+
+A veces las palabras no bastan y por eso usamos iconos,
+Tenemos varios caminos
+1. Usar librerias como https://fontawesome.com/
+2. Crear una librería desde 0 totalmente nuestro
+3. Usar una libreria ya hecha y agreagar iconos necesario para nuestro producto
+
+Características importantes de iconos :
+- Lo primero usar un grid, espaciados entre cada icono. 
+- Definir shapes, para que cuando se cree nuevos iconos no rompan las reglas.
+- tamaños, importante que tenga definido.
+- styles, son como se ven si son planos, lineas, realistas, cual será el diferenciador. 
+
+Lo recomendable, es ya agarar una librería. 
+
+https://fontawesome.com/
+https://thenounproject.com/
+
+
+
+Los iconos son muy útiles para comunicar o resaltar características y funcionalidades de nuestros productos, podemos construir nuestras propias librerías de iconos personalizados o utilizar librerías como Font Awesome y completar los iconos que hagan falta si no tenemos un equipo tan grande.
+
+Para definir las reglas y la documentación de una iconografía consistente debemos tener en cuenta los siguientes aspectos:
+
+    Grid: Las medidas y lineamientos que deben seguir todos los iconos
+    Shapes: Las formas o figuras que podemos utilizar
+    Size: Qué tamaño deben tener nuestros iconos para estar alineados con la tipografía y el resto de la plataforma
+    Styles: Cómo deben estar construidos visualmente nuestros iconos, podemos utilizar colores planos o podemos trabajar en iconos mucho más realistas, etc, lo importante es estar alineados con las reglas de nuestro sistema
