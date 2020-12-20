@@ -1,0 +1,35 @@
+Tipografía
+
+1. ¿Cuales son los requerimientos para aplicar la tipografía?
+  - no todas las tipografías tienen todas las variantes que se necesita como bold.
+  - existe el google fonts nos da todos los paquetes necesarios, con ello tienen todos los requisitos. 
+
+2. ¿Cómo nos vamos a basar para darle una clasificación específica?
+  - Nos podemos basar en HTML desde H1 a H6, recomendable  3 tipos. Pero en realidad es de libre alvedrio
+3. Otras etiquetas a usar
+  - p -> parrafo
+  - small -> pequeño
+4. Colección, tiene todas las variantes que puede tener una tipografía. 
+Ejemplo:  
+h1  bold 20px 
+h2 bold 18px
+h3 bold 15px
+
+párrafo normal 13px
+small normal 10px
+bold bold 13px
+
+
+te comunicas de una forma consistente. 
+
+
+Descripción
+
+Tipografía
+
+Cuando trabajamos con tipografía para software debemos tener en cuenta las implicaciones que estas pueden generar si trabajamos para dispositivos móviles o los requerimientos técnicos de alguna pantalla en particular. Un buen lugar para encontrar tipografías listas para el desarrollo y diseño de nuestros productos es Google Fonts.
+
+Para definir y clasificar las características y peculiaridades en los elementos de nuestro diseño podemos basarnos las etiquetas de HTML para títulos y encabezados (H1, H2, H3, H4, H5 y H6), párrafos (p) y párrafos más pequeños (small). Podemos definir que los títulos se trabajen en negrita y con tamaños de fuente más grandes, lo importante es que estas reglas se acomoden al sistema de diseño que estamos trabajando.
+
+
+
