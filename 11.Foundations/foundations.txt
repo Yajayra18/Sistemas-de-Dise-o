@@ -1,0 +1,12 @@
+Foundations
+Son los elemntos configurables con lo que cosntruiiremos nuevas cosas
+
+  1.Tipografía, abarca de uno de los elementos primordiables desde antes.
+    - definir tamaño específico
+  2. Colores, generan la regla que colores usar y que no. la idea es tener un resultado variable de foundations.
+  3. layout - spaces, los layouts cambian la estructura del sistema, spaces(espaciados entre elementos)
+  4. iconografía, nosotros tenemos mucha comunicación con la iconografía. emogi o icono realista o...
+  5. style, hay que definir que tipo de estilo tendrá por ejemplo, realista, antiguo u otros.
+  6. tono, que tipo de personalidad tiene el producto  (hola, que hay, )
+
+Recordado, el conjunto de sis
