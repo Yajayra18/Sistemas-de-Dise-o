@@ -1,0 +1,38 @@
+
+
+Bonus: Cómo evitar colores constrastantes
+
+Cuando utilizamos colores demasiado contrastantes podemos generar efectos visuales algo molestos, problemas en el render o lineas blancas y negras en los bordes de los elementos. Para solucionar estos problemas visuales debemos elegir nuestros colores con mucho más cuidado, moviendo los colores hacia alguna tonalidad para evitar colores demasiado contrarios.
+
+PALETA DE COLORES,
+Existen clasificación de colores. 
+hay colores por su producto, para ventas para clientes.
+hay otro donde se clasifican (inventan) para cada situación.
+
+Lo importante es clasificarlos
+
+Colores de acción-
+Primarios --> azul, rojo, verde
+Secundarios -->  cyan, fucsia, amarillo.
+
+Hay otra forma de hacer la clasificación 
+Brand colors, en función de la marca.  por ejemplo 
+
+Gray: es una escala de tonalidades 
+backgrounds: colores de fondo, da contrastes.
+
+ya en el camino se va a calibrar los colores. Por eso se necesita paradigmas de contraste de color. 
+
+ejemplo. 
+Por que usas ese color naranja, a por que pertenece a la paleta de colores de la marca y por eso lo usamos. 
+
+
+Descipción.
+
+Paleta de colores
+
+Los colores también deben llevar algún tipo de clasificación ya que definen el estilo visual de nuestro sistema. La paleta de colores define el estilo de tu sistema de diseño y ayuda a definir el sistema de diseño, diferenciando la identidad de la marca y del resto de efectos y elementos visuales.
+
+Muchos sistemas de diseño clasifican sus colores según sus productos (un color para ventas, otro para servicio al cliente, etc), otros utilizamos Material Design y clasificamos los colores como actions colors, _secondary colors _ y otros niveles de clasificación. En realidad no importa, podemos tomar cualquier otro paradigma de fundamentos de color para nuestros sistemas, lo importante es clasificar el uso de estos colores y asegurarnos de que todo el equipo los entiende.
+
+Para escoger estos colores debemos tener en cuenta los colores de la marca, los colores principales (colores de acción o call to actions), colores secundarios, los grises y los colores de fondo. El trabajo se puede complicar un poco cuando tenemos en cuenta todos estos colores, pero el resultado será mucho mejor, los colores funcionaran correctamente entre todos.
